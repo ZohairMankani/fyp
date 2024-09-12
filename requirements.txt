@@ -1,0 +1,14 @@
+tesseract-ocr
+pytesseract
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+llama-parse
+nest_asyncio
+google-colab
+opencv-python
+fastapi
+uvicorn
+python-multipart
+spacy
+transformers
