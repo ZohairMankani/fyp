@@ -1,0 +1,10 @@
+gradio
+fastapi
+opencv-python
+pytesseract
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+transformers
+spacy
+uvicorn
